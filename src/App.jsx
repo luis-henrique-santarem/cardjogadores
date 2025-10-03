@@ -4,7 +4,7 @@ import Titulo from "./components/Titulo";
 import Fallen from "../src/assets/fallen.jpg"
 import DonJavon from "../src/assets/DonJavon.png"
 import Bobby from "../src/assets/bobby.jpg"
-import Daniel from "../src/assets/daniel.png"
+import Daniel from "../src/assets/Daniel.png"
 import Uno from "../src/assets/Uno.jpg"
 import Dalvana from "../src/assets/Dalvana.png"
 import Lucas from "../src/assets/Lucas.png"
